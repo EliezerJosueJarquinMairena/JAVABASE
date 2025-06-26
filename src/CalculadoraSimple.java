@@ -18,6 +18,9 @@ public class CalculadoraSimple {
         int resta = a - b;
         System.out.println("Resta: " + resta);
 
+        //Mi cambio personalizado
+        System.out.println("Mi nombre es Eliezer Jarquin - Carnet 2025-3081U");
+
         scanner.close();
 
         
